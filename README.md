@@ -66,8 +66,10 @@ Basé à **Casablanca/Agadir, Maroc**, je suis actuellement étudiant en **Maste
 ### 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YAadnane&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAadnane&layout=compact&theme=radical" height="180" alt="languages graph" />
+<a href="https://github.com/YAadnane">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YAadnane&show_icons=true&theme=radical&count_private=true" alt="YAadnane's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAadnane&layout=compact&theme=radical" alt="Top Langs" />
+</a>
 </div>
 
 ---
