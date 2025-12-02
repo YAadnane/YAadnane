@@ -16,11 +16,11 @@
 
 ### 🚀 À propos de moi
 
-[cite_start]Basé à **Casablanca/Agadir, Maroc**, je suis actuellement étudiant en **Master Data Analytics et Intelligence Artificielle** à l'Université Ibn Zohr[cite: 99]. [cite_start]Passionné par la transformation de données brutes en solutions intelligentes, je combine une solide formation en ingénierie informatique [cite: 101] avec des compétences avancées en algorithmes prédictifs.
+Basé à **Casablanca/Agadir, Maroc**, je suis actuellement étudiant en **Master Data Analytics et Intelligence Artificielle** à l'Université Ibn Zohr. Passionné par la transformation de données brutes en solutions intelligentes, je combine une solide formation en ingénierie informatique avec des compétences avancées en algorithmes prédictifs.
 
-* [cite_start]🔭 **Je travaille actuellement sur :** Des pipelines ETL temps réel et des systèmes de recommandation basés sur les LLM[cite: 76, 79].
-* [cite_start]🌱 **J'approfondis mes connaissances en :** MLOps, Apache Flink et les architectures Big Data[cite: 33, 46].
-* [cite_start]💡 **Mes forces :** Résolution de problèmes complexes, adaptabilité et esprit d'équipe[cite: 15, 11].
+* 🔭 **Je travaille actuellement sur :** Des pipelines ETL temps réel et des systèmes de recommandation basés sur les LLM.
+* 🌱 **J'approfondis mes connaissances en :** MLOps, Apache Flink et les architectures Big Data.
+* 💡 **Mes forces :** Résolution de problèmes complexes, adaptabilité et esprit d'équipe.
 
 ---
 
@@ -56,18 +56,18 @@
 
 | Projet | Technologies | Description |
 | :--- | :--- | :--- |
-| [cite_start]**Smart Recruitment Assistant** [cite: 76] | *NLP, LLM, RAG* | Assistant intelligent utilisant le "Semantic Matching" et le RAG pour comparer CVs et offres d'emploi avec haute précision. |
-| [cite_start]**Real-Time ETL Pipeline** [cite: 79] | *Kafka, Flink, Power BI* | Pipeline d'ingestion et de transformation de données en continu avec visualisation des KPIs en temps réel. |
-| [cite_start]**Drowsiness Detector** [cite: 85] | *OpenCV, MediaPipe* | Système de détection de somnolence en temps réel par analyse faciale vidéo. |
-| [cite_start]**Tank Monitoring System** [cite: 83] | *IoT, ML, Dashboard* | Tableau de bord intelligent pour la surveillance et la prédiction de l'état des réservoirs d'eau. |
+| **Smart Recruitment Assistant** | *NLP, LLM, RAG* | Assistant intelligent utilisant le "Semantic Matching" et le RAG pour comparer CVs et offres d'emploi avec haute précision. |
+| **Real-Time ETL Pipeline** | *Kafka, Flink, Power BI* | Pipeline d'ingestion et de transformation de données en continu avec visualisation des KPIs en temps réel. |
+| **Drowsiness Detector** | *OpenCV, MediaPipe* | Système de détection de somnolence en temps réel par analyse faciale vidéo. |
+| **Tank Monitoring System** | *IoT, ML, Dashboard* | Tableau de bord intelligent pour la surveillance et la prédiction de l'état des réservoirs d'eau. |
 
 ---
 
 ### 📊 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VOTRE_NOM_UTILISATEUR_GITHUB&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VOTRE_NOM_UTILISATEUR_GITHUB&layout=compact&theme=radical" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YAadnane&show_icons=true&theme=radical&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YAadnane&layout=compact&theme=radical" height="180" alt="languages graph" />
 </div>
 
 ---
