@@ -4,7 +4,7 @@
   
   **Data Scientist & Ingénieur IA en devenir | Master Data Analytics & AI**
   
-  [LinkedIn](https://www.linkedin.com/in/adnane-yadani) • [Portfolio/CV](mailto:yadani.adnane20@gmail.com)
+  [LinkedIn](https://www.linkedin.com/in/adnane-yadani) • [Portfolio/CV](https://drive.google.com/file/d/1Pkc67uvQSDOCSbqiArgYusxu_VXKAAch/view?usp=drive_link)
 
   <br>
 
