@@ -71,17 +71,16 @@ Je combine IA, Data Engineering et DevOps pour construire des solutions **scalab
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YAadnane&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YAadnane&theme=radical" width="96%" />
+  <br><img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YAadnane&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YAadnane&theme=radical&utcOffset=1" width="48%" />
+  <br> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YAadnane&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YAadnane&theme=radical" width="48%" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YAadnane&theme=radical&utcOffset=1" width="48%" />
-
-<br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YAadnane&theme=radical" width="48%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YAadnane&theme=radical" width="48%" />
+  
 
 </div>
+
 ---
 
 ## 🤝 **Connectons-nous**
@@ -90,7 +89,6 @@ Je combine IA, Data Engineering et DevOps pour construire des solutions **scalab
   <a href="https://www.linkedin.com/in/adnane-yadani/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  &nbsp;
   <a href="mailto:yadani.adnane20@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
