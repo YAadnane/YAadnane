@@ -1,32 +1,32 @@
 <!-- ===================================================================== -->
-<!-- 🎨 BANNIÈRE PERSONNALISÉE                                            -->
+<!-- 🎨 BANNIÈRE PERSONNALISÉE                                            -->
 <!-- ===================================================================== -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1200&color=00ADEF&center=true&vCenter=true&width=900&lines=Adnane+Yadani+%7C+Data+Scientist;Machine+Learning+Engineer;Big+Data+%26+MLOps+Enthusiast;AI+Learner+%26+Problem+Solver" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=1200&color=00ADEF&center=true&vCenter=true&width=900&lines=Adnane+Yadani+%7C+Data+Scientist;Machine+Learning+Engineer;Big+Data+%26+MLOps+Enthusiast;AI+Learner+%26+Problem+Solver" />
 </div>
 
 ---
 
 <!-- ===================================================================== -->
-<!-- 👋 PRÉSENTATION                                                      -->
+<!-- 👋 PRÉSENTATION                                                      -->
 <!-- ===================================================================== -->
 
 ## 👋 Salut, je suis **Adnane Yadani**
 
-🎓 **Master Data Analytics & Artificial Intelligence**  
-📍 **Casablanca / Agadir, Maroc**  
-💼 Passionné par la création de solutions intelligentes basées sur les données.
+🎓 **Master Data Analytics & Artificial Intelligence**  
+📍 **Casablanca / Agadir, Maroc**  
+💼 Passionné par la création de solutions intelligentes basées sur les données.[LinkedIn](https://www.linkedin.com/in/adnane-yadani) • [Portfolio/CV](https://drive.google.com/file/d/1Pkc67uvQSDOCSbqiArgYusxu_VXKAAch/view?usp=drive_link)
 
-Je transforme les données brutes en modèles ML robustes, pipelines Big Data et applications intelligentes.  
+Je transforme les données brutes en modèles ML robustes, pipelines Big Data et applications intelligentes.  
 Je combine IA, Data Engineering et DevOps pour construire des solutions **scalables et performantes**.
 
 ---
 
 ### ✨ **Ce que je fais actuellement**
-- 🚀 Développement de pipelines **ETL temps réel** (Kafka + Flink + PowerBI)  
-- 🤖 Construction de systèmes de recommandation basés **LLM + RAG**  
-- 📦 Mise en place d’environnements **MLOps (CI/CD, Docker, model monitoring)**  
+- 🚀 Développement de pipelines **ETL temps réel** (Kafka + Flink + PowerBI)  
+- 🤖 Construction de systèmes de recommandation basés **LLM + RAG**  
+- 📦 Mise en place d’environnements **MLOps (CI/CD, Docker, model monitoring)**  
 - 🧠 Amélioration de modèles ML et Deep Learning
 
 ---
@@ -71,42 +71,33 @@ Je combine IA, Data Engineering et DevOps pour construire des solutions **scalab
 
 <div align="center">
 
-<!-- 🔥 GitHub Streak -->
-<img src="https://streak-stats.demolab.com/?user=YAadnane&theme=radical&hide_border=true" height="180em" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=YAadnane&theme=radical" width="48%" />
 
-<br><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YAadnane&theme=radical&utcOffset=1" width="48%" />
 
-<!-- 📈 Stats Générales -->
-<img height="180em"
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YAadnane&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+<br>
 
-<!-- 🌐 Langages -->
-<img height="180em"
-     src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YAadnane&layout=compact&theme=radical&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YAadnane&theme=radical" width="48%" />
 
-<br><br>
-
-<!-- 🔍 Metrics Premium -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YAadnane&theme=radical" width="100%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YAadnane&theme=radical" width="48%" />
 
 </div>
-
 ---
 
 ## 🤝 **Connectons-nous**
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/adnane-yadani/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="mailto:yadani.adnane20@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+  <a href="https://www.linkedin.com/in/adnane-yadani/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:yadani.adnane20@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </div>
 
 ---
 
 <div align="center">
-  <sub>✨ Merci de visiter mon profil ! N’hésitez pas à laisser une ⭐ sur mes projets.</sub>
+  <sub>✨ Merci de visiter mon profil ! N’hésitez pas à laisser une ⭐ sur mes projets.</sub>
 </div>
