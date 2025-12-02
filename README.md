@@ -66,10 +66,10 @@ Basé à **Casablanca/Agadir, Maroc**, je suis actuellement étudiant en **Maste
 ### 📊 Statistiques GitHub
 
 <div align="center">
-
-![Adnane's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YAadnane&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YAadnane&layout=compact&theme=radical)
-
+<a href="https://github.com/YAadnane">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YAadnane&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YAadnane&layout=compact&theme=radical" />
+</a>
 </div>
 
 ---
