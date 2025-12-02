@@ -67,10 +67,14 @@ Basé à **Casablanca/Agadir, Maroc**, je suis actuellement étudiant en **Maste
 
 <div align="center">
 <a href="https://github.com/YAadnane">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YAadnane&show_icons=true&theme=radical&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YAadnane&layout=compact&theme=radical" />
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=YAadnane&show_icons=true&theme=radical&count_private=true&cache_seconds=86400" />
+
+  <img height="180em"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=YAadnane&layout=compact&theme=radical&cache_seconds=86400" />
 </a>
 </div>
+
 
 ---
 
