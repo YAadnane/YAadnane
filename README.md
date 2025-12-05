@@ -16,7 +16,7 @@
 
 🎓 **Master Data Analytics & Artificial Intelligence**  
 📍 **Casablanca / Agadir, Maroc**  
-💼 Passionné par la création de solutions intelligentes basées sur les données.[LinkedIn](https://www.linkedin.com/in/adnane-yadani) • [Portfolio/CV](https://drive.google.com/file/d/1Pkc67uvQSDOCSbqiArgYusxu_VXKAAch/view?usp=drive_link)
+💼 Passionné par la création de solutions intelligentes basées sur les données.[LinkedIn](https://www.linkedin.com/in/adnane-yadani) • [Portfolio/CV](https://yadani-adnane.duckdns.org/)
 
 Je transforme les données brutes en modèles ML robustes, pipelines Big Data et applications intelligentes.  
 Je combine IA, Data Engineering et DevOps pour construire des solutions **scalables et performantes**.
