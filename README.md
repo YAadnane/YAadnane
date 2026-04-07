@@ -31,6 +31,17 @@ Je combine IA, Data Engineering et DevOps pour construire des solutions **scalab
 
 ---
 
+<!-- 🏢 A PROPOT DE PROFILE                                                 -->
+<!-- ===================================================================== -->
+
+## 🏢 **A PROPOs DE PROFIL**
+Ce compte GitHub est mon **profil personnel**, où je partage mes projets publics, mes expérimentations et mon travail open source.
+Pour mes activités professionnelles, collaborations et contributions techniques ciblées, vous pouvez consulter mon profil GitHub professionné de mes projets personnels publics et de mon travail open source sont présentés sur mon compte GitHub personnel :**[@AD-YAd](https://github.com/AD-YAd)**.
+
+---
+
+---
+
 ## 🧠 **Compétences & Technologies**
 
 ### 🔹 **Data Science & Machine Learning**
